@@ -51,7 +51,7 @@ using pandas.
 - Computes subject-wise mean, standard deviation, min, and max
 - Derives each student's average score and ranks them
 - Saves results to `processed_student_data.csv`
-- Visualizes subject and student performance in `average_scores.png`
+- Visualizes subject and student performance in `average_score.png`
 
 
 ---
